@@ -1,0 +1,76 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/GitHub/MyProjects/pact-workshop-jvm" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PantsLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads/pact-test" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="Scala Compiler" />
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/GitHub/MyProjects/Elastic4sTest" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/GitHub/MyProjects/openid-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/GitHub/MyProjects/scala-pact" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/GitHub/SparkBeyond/coderbot" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/GitHub/SparkBeyond/coderbot/testkit" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/GitHub/SparkBeyond/knomo/pipeline-gen" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/GitHub/SparkBeyond/knomo/qa/gnorance" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/GitLab/SparkBeyond/auth" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/akka-http-quickstart-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/akka-quickstart-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/example" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaCompilerConfiguration">
+        <option name="deprecationWarnings" value="true" />
+        <option name="uncheckedWarnings" value="true" />
+        <parameters>
+          <parameter value="-deprecation" />
+          <parameter value="-unchecked" />
+        </parameters>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customLauncherEnabled" value="true" />
+        <option name="customLauncherPath" value="/usr/local/Cellar/sbt/1.1.1/libexec/bin/sbt-launch.jar" />
+        <option name="customVMEnabled" value="true" />
+        <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home" />
+        <option name="vmParameters" value="-XX:MaxPermSize=512M" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
